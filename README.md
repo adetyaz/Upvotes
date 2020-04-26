@@ -1,5 +1,8 @@
 ### Running the app
 
+![](upvotes.gif)
+
+
 1. Ensure you have `npm` installed.
 
 Follow the instructions for your platform [here](https://github.com/npm/npm).
